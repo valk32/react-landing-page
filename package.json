@@ -1,6 +1,5 @@
 {
-  "name": "nike-web-app",
-  "private": true,
+  "name": "react-landing-page",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
